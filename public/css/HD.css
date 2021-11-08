@@ -1,0 +1,26 @@
+.p{
+	
+	 margin:40px auto 0 auto;
+     
+}
+.text{width: 1200px;
+    height: 40px;
+background-color: rgba(154, 154, 253, 0.2);
+
+
+}
+.btnn{margin: 5px;
+    width: 100px;
+    height: 40px;
+    background-color:rgb(65, 106, 129);
+    color: white;
+     top:1180px;
+     cursor:pointer;
+     
+ }
+
+ .style{
+	position: fixed;
+	left:  90%; /*right: 10px;*/
+	bottom: 10%; 
+}
